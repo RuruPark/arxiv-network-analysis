@@ -6,7 +6,7 @@
 최근 학술 연구의 동향과 구조를 파악하기 위해 네트워크 분석 기법이 활발히 활용되고 있습니다. 본 프로젝트는 방대한 ArXiv 논문 메타데이터를 바탕으로 **저자 간 협업 네트워크** 및 **키워드 공출현 네트워크**를 구축하여 연구자 간 협력 패턴을 구조적으로 이해하고, 시계열 분석을 통해 연구 주제의 최신 트렌드를 파악하는 것을 목표로 합니다.
 
 ## 2. 데이터 세트 (Dataset)
-- **출처**: [Kaggle - Cornell University arXiv Dataset](https://www.kaggle.com/datasets/Cornell-University/arxiv/versions/152/data)
+- **출처**: [Kaggle - Cornell University arXiv Dataset](https://www.kaggle.com/datasets/Cornell-University/arxiv/versions/152/data) (현재 해당 데이터셋 접근이 불가합니다)
 - **규모**: 2007년부터 2023년 11월까지 수집된 약 235만 건의 논문 메타데이터
 - **주요 활용 변수**: 논문 고유 ID, 저자 리스트(`authors_parsed`), 논문 제목 및 초록, 작성 연도
 

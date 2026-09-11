@@ -17,6 +17,8 @@
 ## 2. Data Overview
 본 프로젝트는 [Kaggle의 Cornell University arXiv Dataset](https://www.kaggle.com/datasets/Cornell-University/arxiv/versions/152/data)을 활용합니다.
 
+> *현재 해당 데이터셋 접근이 불가합니다.
+
 - **데이터 수집**: Kaggle 제공 arXiv 메타데이터 (약 235만 건)
 - **주요 활용 피처**:
   - `authors_parsed`: 저자 협업 네트워크 구축을 위한 공동 저자 정보
